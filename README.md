@@ -19,12 +19,12 @@ A two-wheeled self-balancing robotic system designed to maintain stability while
 * DC Motors
 
   ## Working Flow
- MPU6050 IMU
-     ↓
+  MPU6050 IMU
+     >
 Angle Calculation
-     ↓
+     >
 PID Controller
-     ↓
+     >
 PWM Motor Control
-     ↓
+     >
 Balance Correction
