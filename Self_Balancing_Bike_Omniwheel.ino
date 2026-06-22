@@ -1,3 +1,19 @@
+/*
+Project: Self-Balancing Bike using Omni-Wheel
+Author: Varun Bhatlawande
+Date: April 2025
+
+Description:
+PID-controlled self-balancing robotic system using
+MPU6050 IMU feedback and Arduino Nano.
+
+Hardware:
+- Arduino Nano
+- MPU6050 IMU
+- Motor Driver
+- DC Motors
+- Omniwheel
+*/
 
 #include <SPI.h>
 //#include <RF24.h>
